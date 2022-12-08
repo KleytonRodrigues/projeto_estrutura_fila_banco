@@ -1,4 +1,3 @@
-# projeto_estrutura_fila_banco
 Projeto de Estrutura de Dados e análise de algoritmo<br>
 Davi Bassi Cardoso Barbosa (RA: 125111374594)<br>
 Diogo Leme Jacomini (RA: 125111343738)<br>
